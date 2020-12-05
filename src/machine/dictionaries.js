@@ -119,6 +119,7 @@ export const languageKeys = [
     'interface',
     'private',
     'public',
+    'constructor',
 ]
 
 export const literals = [

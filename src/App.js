@@ -19,7 +19,7 @@ function App() {
   const handleClick = () => {
     // console.log(code, code[0]);
     // console.log(_.escape(code), _.escape(code[0]));
-
+    console.log(code);
     setResult(prepareMachinesResult(code));
   }
   

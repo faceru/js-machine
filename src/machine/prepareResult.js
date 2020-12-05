@@ -41,6 +41,7 @@ export function prepareMachinesResult (string) {
             resetAllRules(allRules)
         }
     }
+    console.log(string, tokens);
     return tokens;
 }
  
